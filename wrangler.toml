@@ -14,8 +14,8 @@ binding = "AI"
 # 将输出的 database_id 填入下方
 [[d1_databases]]
 binding = "BOT_DB"
-database_name = "tg-group-bot-db"
-database_id = "039fb8e4-8579-4b1f-804f-5554b8a5f4b5"
+database_name = "kkkkl"
+database_id = "0364a395-63ff-41d7-b184-456ab35fce5c"
 
 # 环境变量（非敏感信息）
 [vars]
