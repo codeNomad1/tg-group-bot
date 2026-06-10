@@ -1,4 +1,4 @@
-name = "tg-group-bot"
+name = "tg-group-bot10"
 main = "src/index.js"
 compatibility_date = "2026-05-28"
 
