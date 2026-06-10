@@ -20,7 +20,7 @@ database_id = "2ab1049a-a8e5-422f-bcb5-df2282c477f2"
 
 # 环境变量（非敏感信息）
 [vars]
-BOT_NAME = "TG群管理机器人"
+BOT_NAME = "naka00jk_bot"
 
 # ⚠️ 敏感信息请通过 secret 注入，不要写在配置文件中：
 #   npx wrangler secret put BOT_TOKEN     # Telegram Bot Token（必需）
